@@ -7,5 +7,12 @@ These tools are:
 * VsCode
 * Github
 
-## System Purpose ##
+## Objective ##
 This tool is for the purpose of retreiving system uptime through PowerShell and displaying this information on a browser with Node.js
+
+This mini-project is just to establish how to have these tools interact
+
+## Method ##
+A simple website that displays how long a system has been up for at the time of loading the page
+
+## Result ##
